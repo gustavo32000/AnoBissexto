@@ -14,7 +14,8 @@ namespace AnoBissexto
         if (ano % 4 != 0)
             Console.WriteLine ("O ano não é bissexto!");
         
-        else Console.WriteLine ("O ano é bissexto!");
+        else 
+            Console.WriteLine ("O ano é bissexto!");
         
           
         }
