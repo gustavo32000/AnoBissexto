@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\bin\Debug\netcoreapp2.1\AnoBissexto.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\bin\Debug\netcoreapp2.1\AnoBissexto.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\bin\Debug\netcoreapp2.1\AnoBissexto.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\bin\Debug\netcoreapp2.1\AnoBissexto.dll
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\bin\Debug\netcoreapp2.1\AnoBissexto.pdb
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\obj\Debug\netcoreapp2.1\AnoBissexto.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\obj\Debug\netcoreapp2.1\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\obj\Debug\netcoreapp2.1\AnoBissexto.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\obj\Debug\netcoreapp2.1\AnoBissexto.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\obj\Debug\netcoreapp2.1\AnoBissexto.dll
+C:\Users\gustavo.calbuquerque\CSharp\AnoBissexto\obj\Debug\netcoreapp2.1\AnoBissexto.pdb
